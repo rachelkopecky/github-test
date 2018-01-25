@@ -1,0 +1,18 @@
+---
+title: "Test ReadMe"
+author: "Rachel"
+date: "January 25, 2018"
+output: html_document
+---
+
+## Overview
+
+This is my git example
+
+## Code Example
+
+```{r}
+
+x <- rnorm(110)
+
+```
